@@ -2,6 +2,7 @@
 
 import useGroups from '@/hooks/useGroups';
 import type GroupInterface from '@/types/GroupInterface';
+import type StudentInterface from '@/types/StudentInterface';
 import styles from './Groups.module.scss';
 
 const Groups = (): React.ReactElement => {
